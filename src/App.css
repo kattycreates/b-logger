@@ -233,6 +233,7 @@ header .logo{
       .search{
           margin-bottom: 10px;
           width: 75vw;
+          font-size: 15px;
       }
       .book{
         margin-bottom: 20px;
@@ -249,6 +250,9 @@ header .logo{
     }
     .book{
         margin-bottom: 20px;
+    }
+    .search{
+        font-size: 15px;
     }
 
 }
